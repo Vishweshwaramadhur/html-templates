@@ -1,38 +1,52 @@
-# My CV Website
+# My Bio Webpage
 
-This is a simple CV (Resume) webpage created using **HTML** and **CSS**.
+This is a simple and clean HTML + CSS Bio webpage that shows my photo, introduction, and contact information.
 
-## 📄 Features
-- Clean and simple layout  
+---
+
+## 📌 Features
 - Profile photo  
-- Personal details (Name, Email, Phone)  
-- Education section  
-- Skills section  
-- Projects section  
+- Short introduction  
+- Clean centered card layout  
+- Contact section with Email, WhatsApp, and GitHub links  
 
-## 🖼 Preview
-The webpage displays:
-- Name  
-- Fresher introduction  
-- Email & phone number  
-- Personal profile  
-- Education  
-- Skills (Python, HTML, CSS, JavaScript, Flask)  
-- Projects: Weather App, Temple Seva App, Task Manager  
+---
 
-## 🧑‍💻 Technologies Used
+## 📸 Preview
+The webpage includes:
+- My photo  
+- My name  
+- A small bio  
+- Contact links  
+
+---
+
+## 🛠 Technologies Used
 - HTML  
 - CSS  
 
-## 📁 Project Structure
-html-templates/  
-│── index.html      (CV webpage)  
-│── README.md       (Project documentation)  
-│── vishwa.jpg      (Profile photo - optional)
+---
 
-## 📂 How to Run
-Just open the file in your browser:
+## 📂 Project Structure
+bio-project/
+│── index.html  
+│── vishwa sg.jpg  
+│── README.md  
 
-index.html
+---
+
+## ▶️ How to Run
+1. Download or clone the project  
+2. Open **index.html** in any browser  
+3. Done — your bio page will open  
+
+---
+
+## 👤 Author
+**Vishweshwara**
+
+- Email: **vishweshwaramadhur@gmail.com**  
+- GitHub: **https://github.com/vishweshwaramadhur**  
+- WhatsApp: **916238207191**
 
 
